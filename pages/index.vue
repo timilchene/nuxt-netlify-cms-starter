@@ -1,10 +1,10 @@
 <template>
   <div>
     <logo />
-    <h1 class="title">shit</h1>
-    <h2 class="subtitle">Truly fantastic. Sometimes I astound even myself.</h2>
-    <a href="https://github.com/xdesro/nuxt-netlify-cms-starter">GitHub</a>
-    <a href="http://i.ncredibly.online">Twitter</a>
+    <h1 class="title">Hi Bud, This is a fun time</h1>
+    <h2 class="subtitle">Silly Cheesy Line Here.</h2>
+    <a href="https://github.com/timilchene">GitHub</a>
+    <a href="I don't have a twitter silly">Twitter</a>
     <nuxt-link to="/blog">Blog</nuxt-link>
     <div class="deploy-button">
       <a href="https://app.netlify.com/start/deploy?repository=https://github.com/xdesro/nuxt-netlify-cms-starter">
